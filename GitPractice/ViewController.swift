@@ -11,6 +11,11 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        add()
+    }
+    
+    func add(){
+        print("items added*")
     }
 }
 
