@@ -12,10 +12,13 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         add()
+        subtract()
     }
     
     func add(){
         print("items added*")
+    func subtract(){
+        print("items subtracted")
     }
 }
 
