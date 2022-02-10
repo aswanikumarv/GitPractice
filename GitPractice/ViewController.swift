@@ -17,6 +17,7 @@ class ViewController: UIViewController {
     
     func add(){
         print("items added*")
+    }
     func subtract(){
         print("items subtracted")
     }
