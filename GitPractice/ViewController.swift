@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         subtract()
+        print("This is fom dev2 branch")
     }
     func subtract(){
         print("items subtracted")
