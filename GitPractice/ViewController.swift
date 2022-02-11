@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         add()
         subtract()
+        print("This is fom dev2 branch")
     }
     
     func add(){
