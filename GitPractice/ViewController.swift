@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         add()
         subtract()
         print("This is fom dev2 branch")
+        print("commit1")
     }
     
     func add(){
